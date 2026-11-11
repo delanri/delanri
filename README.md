@@ -8,7 +8,7 @@ Indie developer building AI companion & agent products · Remote only
 
 ## Reso — 给想被记住的人
 
-→ [reso.love](https://reso.love)
+→ [reso.love](https://reso.love) · [reso-showcase](https://github.com/delanri/reso-showcase)
 
 面向海外用户的 AI 伴侣，一个人不到一个月从零上线，现在邀请制内测中。
 
