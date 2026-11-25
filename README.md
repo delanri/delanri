@@ -4,7 +4,7 @@
 Indie developer building AI companion & agent products · Remote only
 
 我把一个想法从产品定义一路做到上线：角色与交互设计、系统架构、前后端开发、部署运维，都是一个人完成。  
-日常用 Claude Code 开发：架构和判断由我负责，实现交给 AI，改完先测试验证再上线。
+日常用 Claude Code 开发：架构和判断由我负责，改完先测试验证再上线。
 
 ## Reso — 给想被记住的人
 
