@@ -26,7 +26,7 @@ Indie developer building AI companion & agent products · Remote only
 
 ## 技术栈
 
-Vue 3 · Capacitor (iOS) · Node.js / Express · Python / Flask · PostgreSQL · Qdrant · RAG · 多模型编排 · Docker · Nginx · Codemagic CI/CD
+Vue 3 · Capacitor (iOS) · Node.js / Express · Python / Flask · PostgreSQL · TypeScript · Qdrant · RAG · 多模型编排 · Docker · Nginx · Codemagic CI/CD
 
 ## 联系
 
