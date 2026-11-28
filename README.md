@@ -10,7 +10,7 @@ Indie developer building AI companion & agent products · Remote only
 
 → [reso.love](https://reso.love) · [reso-showcase](https://github.com/delanri/reso-showcase)
 
-面向海外用户的 AI 伴侣，一个人不到一个月从零上线，现在邀请制内测中。
+面向海外用户的 AI 伴侣，一个人不到一个月从零上线。目前二测开放中，邀请码：HEARTBEAT。
 
 人想被记住，是因为想被看见。可大多数 AI 伴侣的记忆藏在后台：记了什么、记错了什么，用户都不知道。Reso 把记忆摊开：
 
