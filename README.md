@@ -26,11 +26,11 @@ Indie developer building AI companion & agent products · Remote only
 
 ## 技术栈
 
-前端：Vue 3 · Capacitor (iOS)            
-后端：Node.js / Express · Python / Flask
-数据：PostgreSQL · SQLite · Qdrant 
-AI：RAG · 多模型编排
-部署：Docker · Nginx · Codemagic
+- 前端：Vue 3 · Capacitor (iOS)
+- 后端：Node.js / Express · Python / Flask
+- 数据：PostgreSQL · SQLite · Qdrant
+- AI：RAG · 多模型编排
+- 部署：Docker · Nginx · Codemagic
 
 ## 联系
 
