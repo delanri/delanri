@@ -4,7 +4,7 @@
 Indie developer building AI companion & agent products · Remote only
 
 我把一个想法从产品定义一路做到上线：角色与交互设计、系统架构、前后端开发、部署运维，都是一个人完成。  
-日常用 Claude Code 以及 Antigravity 开发：所有架构和判断由我负责，改完先测试验证再上线。
+日常用 Claude 和 Antigravity 协作开发。所有架构和判断由我负责，改完先测试验证再上线。
 
 ## Reso — 给想被记住的人
 
@@ -26,7 +26,11 @@ Indie developer building AI companion & agent products · Remote only
 
 ## 技术栈
 
-Vue 3 · Capacitor (iOS) · Node.js / Express · Python / Flask · PostgreSQL · TypeScript · Qdrant · RAG · 多模型编排 · Docker · Nginx · Codemagic CI/CD
+前端：Vue 3 · Capacitor (iOS)            
+后端：Node.js / Express · Python / Flask
+数据：PostgreSQL · SQLite · Qdrant 
+AI：RAG · 多模型编排
+部署：Docker · Nginx · Codemagic
 
 ## 联系
 
